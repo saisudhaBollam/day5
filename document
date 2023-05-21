@@ -1,0 +1,13 @@
++ <!DocumentType html>
++ <html lang="en">
++ <head>
++       <meta charest="UTF-8">
++       <meta http-equiv="x-UA-Compatiable"
+    content="IE=edge">
++        <meta name="viewreport" content="width=device-width,
+    initial-scale=1.0">
++ </head>
++ <body>
++       <script src="script.js"></script>
++ </body>
++ </html>
