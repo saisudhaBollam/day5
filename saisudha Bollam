@@ -1,0 +1,38 @@
++//given jsoon data iterate with for, for in, for of, and for each loops respectivily.
++var employee=[{"name":"saisudha",
++            "age":"28",
++            "email":"saisudha@gmail.com",
++            "salary":"70000",
++
++           {"Name":"raju",
++           "age":"21,
++           "email":"raju@gmail.com",
++           "salary":"20000",
++
++          "Name":"ramu",
++          "age":"23",
++          "email":"ramu@gmail.com",
++          "salary":"30000",
++
++
++//for loop
++for(i=0;i<employee.length;i++){
++   console.log(employeed[i]);
++ } ;
++ console.log("....................");
++//for in loop
++
++for( const x in employee){
++    console.log(employee[x]);
++ };
++console.log("....................");
++//for loop
++
++for(let a of employee){
++   console.log(".................");
++//for each loop
++empolyee.forEach(function()
++ {
++      console.log(employee[0]);
++ });
+            
